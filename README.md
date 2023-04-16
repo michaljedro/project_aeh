@@ -10,14 +10,10 @@
   <p align="center">
     Projekt na zaliczenie przedmiotu dotyczącego Zarządzania Jakością Oprogramowania. Przedstawia on aplikację webową tzwn. ToDo Listę. Wykonany został z wykorzystaniem JavaScript. Strona frontendowa aplikacji wykonane przy wykorzystaniu biblioteki React, backend z uzyćiem ExpressJS łączący się z bazą danych z MongoDB.
     <br />
-    <a href="https://github.com/pawel-schmidt/the-right-choice/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.therightchoice.online/">View Demo</a>
-    ·
-    <a href="https://github.com/pawel-schmidt/the-right-choice/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/pawel-schmidt/the-right-choice/issues">Request Feature</a>
+    <a href="">View Demo</a>
+
   </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -51,8 +47,10 @@
 ### Built With
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Styled-Components]
-))
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
