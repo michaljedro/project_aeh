@@ -8,7 +8,7 @@
 <h3 align="center">Zarządzanie Jakością Oprogramowania - Laboratorium</h3>
 
   <p align="center">
-    is an app that helps you make difficult decisions by presenting you </br> with two options at a time and allowing you to choose between them.
+    Projekt na zaliczenie przedmiotu dotyczącego Zarządzania Jakością Oprogramowania. Przedstawia on aplikację webową tzwn. ToDo Listę. Wykonany został z wykorzystaniem JavaScript. Strona frontendowa aplikacji wykonane przy wykorzystaniu biblioteki React, backend z uzyćiem ExpressJS łączący się z bazą danych z MongoDB.
     <br />
     <a href="https://github.com/pawel-schmidt/the-right-choice/"><strong>Explore the docs »</strong></a>
     <br />
