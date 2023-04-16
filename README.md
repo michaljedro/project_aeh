@@ -120,8 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 The Right Choice™ is a community of people who want to gain experience, expand their programming skills, and enter the world of IT as programmers. The best way to do this is by writing your own code, creating applications, and exchanging experiences while creating with others.
 
-- [@pawel-schmidt](https://github.com/pawel-schmidt/)
 - [@michaljedro](https://github.com/michaljedro)
-- [@qunikarp](https://github.com/qunikarp)
+- Grzegorz Glica
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
