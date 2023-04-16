@@ -15,7 +15,6 @@
     <img src="https://user-images.githubusercontent.com/50203318/232338036-10da4883-940f-4af4-98b0-c08f9daff637.jpg">
 
 
-    <a href="">View Demo</a>
 
   </p>
 
