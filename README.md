@@ -8,7 +8,8 @@
 <h3 align="center">Zarządzanie Jakością Oprogramowania - Laboratorium</h3>
 
   <p align="center">
-    is an app that helps you make difficult decisions by presenting you </br> with two options at a time and allowing you to choose between them.
+    
+    Prezentowany projekt posiada stronę frontendową, backend oraz bazę danych. Jest to aplikacja przechowujące zadania do wykonania przez użytkownika. Użytkownik może dostosować wygląd aplikacji odnośnie preferencji wybierając pomiędzy jasnym bądź ciemnym tłem.
     <br />
     <a href="https://github.com/pawel-schmidt/the-right-choice/"><strong>Explore the docs »</strong></a>
     <br />
