@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
 
@@ -52,7 +52,7 @@
 ### Built With
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Styled-Components]([https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black](https://img.shields.io/badge/Styled_Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white
+![Styled-Components]
 ))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
