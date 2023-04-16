@@ -122,5 +122,9 @@ The Right Choice™ is a community of people who want to gain experience, expand
 
 - [@michaljedro](https://github.com/michaljedro)
 - Grzegorz Glica
+- Sebastian Wciślik
+- Jakub Wrótniak
+- Michał Roszkowski 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
