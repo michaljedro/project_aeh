@@ -85,9 +85,13 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
    
-3. Open the project
+3. Open the project frontend
    ```sh
-   npm run dev
+   npm start
+   ```
+4. Open the project backend
+   ```sh
+   node server.js
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
