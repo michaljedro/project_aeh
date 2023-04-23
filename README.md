@@ -78,10 +78,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/pawel-schmidt/the-right-choice.git
    ```
+   The project is divided into two parts. For the FrontEnd and BackEnd folder. After downloading the project to your computer, you need to go to each folder (frontend and backend) and install the dependencies.
+   
 2. Install NPM packages
    ```sh
    npm install
    ```
+   
 3. Open the project
    ```sh
    npm run dev
