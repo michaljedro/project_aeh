@@ -12,9 +12,9 @@
     <br />
     <br />
     <br />
-    <img src="https://user-images.githubusercontent.com/50203318/232338036-10da4883-940f-4af4-98b0-c08f9daff637.jpg">![Screenshot from 2023-04-23 10-06-14](https://user-images.githubusercontent.com/50203318/233827842-d7460c3b-9686-45b6-8b69-ab8b0a108779.png)
+    <img src="https://user-images.githubusercontent.com/50203318/232338036-10da4883-940f-4af4-98b0-c08f9daff637.jpg">
 
-    <img src="https://user-images.githubusercontent.com/50203318/233827842-d7460c3b-9686-45b6-8b69-ab8b0a108779.png">
+    <img src="https://user-images.githubusercontent.com/50203318/233827842-d7460c3b-9686-45b6-8b69-ab8b0a108779.jpg">
 
 
 
