@@ -114,10 +114,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Software Quality Management - Laboratory is a place where we can to gain experience, expand their programming skills, and enter the world of IT as programmers. The best way to do this is by writing your own code, creating applications, and exchanging experiences while creating with others.
 
 - [@michaljedro](https://github.com/michaljedro)
-- Grzegorz Glica
-- Sebastian Wciślik
-- Jakub Wrótniak
-- Michał Roszkowski 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
