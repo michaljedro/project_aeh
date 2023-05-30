@@ -114,7 +114,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ae35b1af-afd8-456f-ba7b-f16fb70dfb58)
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ac315aed-9cca-4b60-a65c-a1115c90ebbd)
+)
 
 
 
