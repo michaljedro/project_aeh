@@ -113,6 +113,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ae35b1af-afd8-456f-ba7b-f16fb70dfb58)
+  <!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Authors
 
