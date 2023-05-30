@@ -107,10 +107,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
+<!-- Instrukcja użytkownika -->
+  
  ##Instrukcja użytkownika
-  ![Tekst alternatywny](![1](https://github.com/michaljedro/project_aeh/assets/50203318/c34bcce1-56ab-4928-bb9c-1e9ef14d49a8)
 
-  ![Tekst alternatywny](![1](https://github.com/michaljedro/project_aeh/assets/50203318/ae35b1af-afd8-456f-ba7b-f16fb70dfb58)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ae35b1af-afd8-456f-ba7b-f16fb70dfb58)
 
 ## Authors
 
