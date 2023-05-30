@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+ew3zxxxxs
 <!-- LICENSE -->
 
 <!-- ## License
@@ -108,6 +108,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
+ ##Instrukcja użytkownika
+  <img src="![1](https://github.com/michaljedro/project_aeh/assets/50203318/85147e3c-4863-4f33-adf5-df38ededb259)
+">
 
 ## Authors
 
