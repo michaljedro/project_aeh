@@ -108,8 +108,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
  ##Instrukcja użytkownika
-  <img src="(https://github.com/michaljedro/project_aeh/assets/50203318/85147e3c-4863-4f33-adf5-df38ededb259)
-">
+  ![Tekst alternatywny](![1](https://github.com/michaljedro/project_aeh/assets/50203318/c34bcce1-56ab-4928-bb9c-1e9ef14d49a8)
+)
 
 ## Authors
 
