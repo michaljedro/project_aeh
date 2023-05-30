@@ -120,9 +120,11 @@ Naciskając ikonę księżyca znajdującą się na tle gór, użytkonik może zm
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/926d93de-fc99-4417-8751-fd15f8f43f00)
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/be314622-88d0-48c5-8dcc-953ee2d1e44c)
+  Aby pokazać jedynie zakończone zadania wykonane przez użytkownika, należy kliknąć na przycisk `Completed`. Po najechaniu na przycisk, zmieni on barwę na niebieską
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ce922b3d-763f-48c8-b017-1c37a0360e62)
 
+  Użytkownik może wyświetlić zadania, które są aktywne tj. nie zostały wykonane. 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/acf7502b-9e7a-47d4-80a4-c9d0b1c18cb8)
 
 
