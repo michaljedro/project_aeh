@@ -127,6 +127,7 @@ Naciskając ikonę księżyca znajdującą się na tle gór, użytkonik może zm
 
   Użytkownik może wyświetlić zadania, które są aktywne tj. nie zostały wykonane. Należy kliknąć w tym celu przycisk Active. Pokazane zostaną nie wykonane zadania. Zmieni się także liczba w lewym dolnym rogu listy. 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/acf7502b-9e7a-47d4-80a4-c9d0b1c18cb8)
+  <br />
 Aby pokazać wszystkie zadania, należy kliknąć przycisk All. 
 
 
