@@ -115,7 +115,19 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ac315aed-9cca-4b60-a65c-a1115c90ebbd)
-)
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/e182bc1e-ce5a-4c98-a053-207a14b1c11a)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/55ae1cb3-9b2a-4ad5-96c1-92e9eac6528c)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/926d93de-fc99-4417-8751-fd15f8f43f00)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/be314622-88d0-48c5-8dcc-953ee2d1e44c)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ce922b3d-763f-48c8-b017-1c37a0360e62)
+
+  ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/acf7502b-9e7a-47d4-80a4-c9d0b1c18cb8)
+
+
 
 
 
