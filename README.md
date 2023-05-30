@@ -116,7 +116,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ac315aed-9cca-4b60-a65c-a1115c90ebbd)
 
-
+Naciskając ikonę księżyca znajdującą się na tle gór, użytkonik może zmienić ekrany na ciemny. Wtedy zostanie także zmieniona ikona tego zdarzenia. Po zmianie tła na ciemne, ikona zostanie zmieniona na słońce. Aby powrócić do jasnego tła, należy nacisnąć ikonę słońca.
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/926d93de-fc99-4417-8751-fd15f8f43f00)
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/be314622-88d0-48c5-8dcc-953ee2d1e44c)
