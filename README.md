@@ -113,9 +113,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
   ![Tekst alternatywny](https://github.com/michaljedro/project_aeh/assets/50203318/ae35b1af-afd8-456f-ba7b-f16fb70dfb58)
-  <!-- ABOUT THE PROJECT -->
+  <!-- USER MANUAL -->
 
-## About The Project
+## USER MANUAL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
