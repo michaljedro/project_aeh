@@ -139,13 +139,7 @@ Software Quality Management - Laboratory is a place where we can to gain experie
 
 - [@michaljedro](https://github.com/michaljedro)
   
-- [Michał Roszkowski]
-  
-- [Kuba Wrótniak]
-  
-- [Grzegorz Glica]
-  
-- [Sebastian Wciślik]
+
   
 
 
